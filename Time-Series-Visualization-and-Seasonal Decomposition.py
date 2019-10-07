@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Oct  7 15:51:18 2019
-
-@author: sarth
+@author: sarthak
 """
 # Importing the packages
 
